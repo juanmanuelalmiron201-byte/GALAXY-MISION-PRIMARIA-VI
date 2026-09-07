@@ -1,0 +1,15 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Arduino / PlatformIO
+.pio/
+*.hex
+*.bin
+
+# Node (por si se agrega tooling a la web de la estación terrena)
+node_modules/
+
+# Archivos temporales
+*.tmp
+*.log
